@@ -49,10 +49,8 @@ class Main {
 
         }
 
-        System.out.println("Skriv din lösning");
-        int lösning = scan.nextInt();
-
-        // Resten vet jag inte AHHHH
+        System.out.println("Skriv din losning");
+        int losning = scan.nextInt();
 
     }
 
